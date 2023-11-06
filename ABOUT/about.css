@@ -1,0 +1,25 @@
+.main{
+    width: 100%;
+    height: fit-content;
+    padding: 50px;
+    margin-top: 100px;
+    background-color: #1D9BA6;
+}
+
+.main .heading{
+    margin: 50px 35px 20px 35px;
+    display: inline-block;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.main .aboutDesc{
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px 35px;
+}
+
+
+

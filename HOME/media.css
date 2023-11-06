@@ -1,0 +1,95 @@
+.nav{
+    height: 120px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: unset;
+}
+
+.nav .logo {
+    margin: 0px;
+    height: 70px;
+}
+
+.nav .logo img{
+    margin-right: 60px;
+}
+
+.nav .list ul li{
+    margin: 0px 15px;
+}
+
+.nav .list ul{
+    margin: 0px;
+}
+
+
+.info{
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: fit-content;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.info .mainLogo img{
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+}
+
+.info .mainHeading{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#wel{
+    font-size: 25px !important;
+}
+
+#habibi{
+    font-size: 25px !important;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+#kheda{
+    font-size: 20px !important;
+}
+
+.mainAdd{
+    font-size: 10px !important;
+    margin-bottom: 15px;
+}
+
+.footer{
+    flex-direction: column;
+    align-items: normal;
+    height: fit-content;
+}
+
+.footer .footabout{
+    margin: 40px 20px;
+}
+
+.menu{
+    margin-right: 35px;
+}
+
+.menu .khedaMenu{
+    font-size: 30px !important;
+}
+
+.menu .cafeMenu{
+    margin-bottom: 100px !important;
+    font-size: 30px !important;
+}
+
+.main .heading{
+    font-size: 25px !important;
+    /* padding: 0px; */
+}
+
+
+
